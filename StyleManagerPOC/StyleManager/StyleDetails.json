@@ -1,0 +1,28 @@
+{
+    "SampleViewController": {
+        "LoginButton" : {
+            "font-color": "F7941D",
+            "border-color" : "#ff0000",
+            "iOS-tag" : 111111,
+            "border-radius" : 10
+        },
+        "LoginLabel" : {
+            "background-color": "#ff0000",
+            "iOS-tag" : 111112
+        }
+    },
+  "GenericStyles": {
+    "Label": {
+      "font-family": "Open Sans",
+      "font-color": "#4c4c4c",
+      "font-size": "18",
+      "background-color": "#F7941D"
+    },
+    "Button": {
+      "font-family": "Open Sans",
+      "font-color": "#4c4c4c",
+      "font-size": "18",
+      "border-color" : "#FF0000"
+    }
+  }
+}
